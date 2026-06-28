@@ -1,7 +1,10 @@
-# Telegram Username Checker
+# Telegram Username Checker MK2
 
-Generate and check Telegram username availability using [Telethon](https://github.com/LonamiWebs/Telethon).  
-Runs in **Google Colab** (or any Jupyter environment with network access).
+**MK2** — find available Telegram usernames using an English dictionary or random strings.
+
+A Jupyter notebook that generates username candidates, checks availability via the Telegram API ([Telethon](https://github.com/LonamiWebs/Telethon)), and saves free usernames to a file. Designed for **Google Colab**, works in any Jupyter environment with network access.
+
+> Unofficial tool. Not affiliated with Telegram. Use at your own risk.
 
 ---
 
@@ -63,10 +66,13 @@ You are solely responsible for how you use this tool.
 
 ---
 
-# Проверка ников Telegram
+# Проверка ников Telegram MK2
 
-Генерация и проверка доступности юзернеймов через [Telethon](https://github.com/LonamiWebs/Telethon).  
-Работает в **Google Colab** (или любом Jupyter с доступом в сеть).
+**MK2** — поиск свободных ников в Telegram через английский словарь или случайные строки.
+
+Jupyter-ноутбук: генерирует варианты ников, проверяет доступность через Telegram API ([Telethon](https://github.com/LonamiWebs/Telethon)) и сохраняет свободные в файл. Рассчитан на **Google Colab**, работает в любом Jupyter с доступом в сеть.
+
+> Неофициальный инструмент. Не связан с Telegram. Используйте на свой страх и риск.
 
 ---
 
