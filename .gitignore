@@ -1,0 +1,32 @@
+# Telegram session (contains auth tokens)
+*.session
+*.session-journal
+
+# Generated output
+Input.txt
+Available.txt
+username_checker_results.zip
+*.zip
+
+# Secrets & local config
+config.py
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
