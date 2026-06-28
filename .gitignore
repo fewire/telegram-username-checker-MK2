@@ -5,6 +5,7 @@
 # Generated output
 Input.txt
 Available.txt
+checked_words.txt
 username_checker_results.zip
 *.zip
 
